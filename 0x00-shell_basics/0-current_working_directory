@@ -1,1 +1,2 @@
-#! /usr/bin/pwd 
+#!/bin/bash
+/usr/bin/pwd
