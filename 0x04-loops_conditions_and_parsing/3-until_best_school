@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+#prints best school 10 times using the until statement
+
+count=0
+
+until [ $count -eq 10 ]
+do
+  echo "Best School"
+  (( count++ ))
+done
